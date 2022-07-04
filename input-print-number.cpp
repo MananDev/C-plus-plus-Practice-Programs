@@ -5,4 +5,4 @@ int main() {
 	cout<<"Enter a Number";
 	cin>>number;
 	cout<<"you entered"<<number;
-} j
+} 
