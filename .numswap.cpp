@@ -9,4 +9,4 @@ int main() {
 	 cout<< "value 1:" << num1 << endl;
 	 cout<< "value 2:" << num2 << endl;
 	return 0;
-}nmn
+}nm
